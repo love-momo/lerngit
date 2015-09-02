@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 git branch test
 git mrege ff test
+git fix master bug
